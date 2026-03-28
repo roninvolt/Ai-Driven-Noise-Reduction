@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 # ai-driven-noise-reduction
-AI-based automatic noise classification and adaptive denoising system with SAR image extension (Capstone Project 2025-2026).
+AI-based automatic noise classification and adaptive denoising system with SAR image extension 
 =======
 # Ai-Driven-Noise-Reduction
 
